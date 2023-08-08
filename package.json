@@ -7,7 +7,7 @@
   "author": "Momtchil Momtchev <momtchil@momtchev.com>",
   "license": "ISC",
   "dependencies": {
-    "@expo/config-plugins": "^6.0.0",
+    "@expo/config-plugins": ">=6.0.0",
     "xml2js": "^0.4.23"
   }
 }
