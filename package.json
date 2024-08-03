@@ -1,11 +1,14 @@
 {
-  "name": "@mmomtchev/expo-android-localized-app-name",
+  "name": "@fbdtemme/expo-android-localized-app-name",
   "version": "1.0.1",
   "description": "Support a localized application name with expo on Android",
   "main": "index.js",
-  "repository": "https://github.com/mmomtchev/expo-android-localized-app-name.git",
+  "repository": "https://github.com/fbdtemme/expo-android-localized-app-name.git",
   "author": "Momtchil Momtchev <momtchil@momtchev.com>",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "xml2js": "^0.4.23"
   },
